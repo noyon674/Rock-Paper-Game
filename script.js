@@ -51,7 +51,7 @@ const playGame = (userChoice)=>{
 
     //if choices are same
     if(userChoice == compChoice){
-        //draw game
+        //draw game fuction
         drawGame();
     }
     else{
